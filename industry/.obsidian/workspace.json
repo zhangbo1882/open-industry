@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "89dd5360ad4d50ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "58a7919940ede91a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a678ba3c50c96729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/syntheses/公司关联图谱.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "公司关联图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4f9d0619a756a3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b497d5e7c9da9fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cccbca84ce17c225",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1cd2f238b9168035",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "88e082481c426798",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "faebb012931e5ddf",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2879236e3a14ade",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc10a09ff14ad0cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/syntheses/公司关联图谱.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "公司关联图谱 的反向链接列表"
+            }
+          },
+          {
+            "id": "1661468bba635a6e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/syntheses/公司关联图谱.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "公司关联图谱 的出链列表"
+            }
+          },
+          {
+            "id": "6f2912690a81f8c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "eb3a02b53910ec3a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "08bc218a9c4013d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/syntheses/公司关联图谱.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "公司关联图谱 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
+    }
+  },
+  "active": "a678ba3c50c96729",
+  "lastOpenFiles": [
+    "raw/articles/智元.md",
+    "wiki/companies/a-share/宇树科技.md",
+    "wiki/companies/a-share/德明利.md.tmp.45422.1e3a2aa4f135",
+    "wiki/industries/downstream/机器人应用场景.md",
+    "wiki/industries/upstream/机器人核心零部件.md",
+    "wiki/syntheses/公司关联图谱.md",
+    "wiki/companies/a-share/汇川技术.md",
+    "wiki/companies/a-share/埃斯顿.md",
+    "wiki/sources/埃斯顿2025年年报.md",
+    "wiki/companies/a-share/机器人.md",
+    "raw/reports/SZ002747_埃斯顿_2025年年度报告.pdf",
+    "wiki/sources/机器人2025年年度报告.md",
+    "raw/reports/_temp_cninfo6.pdf",
+    "raw/reports/SZ300024_机器人_2025年年度报告.pdf",
+    "wiki/industries/midstream/半导体封测.md.tmp.45422.494ff4a395c1",
+    "wiki/companies/a-share/拓斯达.md",
+    "wiki/sources/拓斯达2025年年报.md",
+    "raw/reports/SZ300607_拓斯达_2025年年度报告.pdf",
+    "raw/reports/_temp_cninfo5.pdf",
+    "raw/reports/SpaceX_S1_Prospectus_Key_Content.md",
+    "raw/reports/SpaceX_S1_Prospectus_Key_Content_2026-05-20.md",
+    "wiki/companies/us-stock/SpaceX.md",
+    "wiki/sources/SpaceX_S1_招股书.md",
+    "raw/reports/SpaceX_S1_2026-05-20.htm",
+    "wiki/companies/us-stock",
+    "raw/reports/SpaceX_S1_clean.txt",
+    "Untitled.md",
+    "wiki/companies/a-share/晶方科技.md",
+    "wiki/sources/晶方科技2025年年报.md",
+    "wiki/companies/a-share/顺络电子.md",
+    "wiki/sources/顺络电子2025年年报.md",
+    "wiki/companies/a-share/思泉新材.md",
+    "wiki/sources/思泉新材2025年年报.md",
+    "wiki/companies/a-share/生益科技.md",
+    "wiki/sources/生益科技2025年年报.md",
+    "wiki/companies/a-share/永鼎股份.md",
+    "未命名.canvas"
+  ]
+}

@@ -1,3 +1,15 @@
+---
+title: 知识库全景概览
+type: overview
+created: 2026-05-23
+updated: 2026-05-24
+sources: []
+related:
+  - "[[index|总目录]]"
+confidence: high
+status: active
+---
+
 # 知识库全景概览
 
 > 最后更新：2026-05-23

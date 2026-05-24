@@ -5,7 +5,7 @@ industry_chain: 下游
 upstream:
   - 光模块
   - 光器件
-  - 互连芯片
+  - "[[互连芯片]]"
 downstream:
   - AI训练
   - AI推理
@@ -29,6 +29,7 @@ related:
   - "[[寒武纪]]"
   - "[[英维克]]"
   - "[[生益科技]]"
+  - "[[顺络电子]]"
 confidence: high
 status: active
 tags:

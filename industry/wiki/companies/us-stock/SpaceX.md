@@ -1,6 +1,7 @@
 ---
 title: SpaceX
 type: company
+industry: 航天/卫星通信/人工智能
 created: 2026-05-24
 updated: 2026-05-24
 sources:

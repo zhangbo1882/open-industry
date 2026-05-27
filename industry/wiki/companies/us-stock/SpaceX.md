@@ -14,6 +14,7 @@ related:
   - "[[AI算力与基础设施芯片需求]]"
 confidence: high
 status: active
+sector: 通信/卫星通信/卫星互联网
 ---
 
 # SpaceX — Space Exploration Technologies Corp.

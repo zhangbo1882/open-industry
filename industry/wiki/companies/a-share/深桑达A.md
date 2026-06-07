@@ -7,7 +7,7 @@ created: 2026-06-06
 updated: 2026-06-06
 confidence: medium
 status: draft
-sector: [信息技术/IT服务/IT服务]
+sector: [信息技术/IT服务/IT综合服务]
 ---
 
 # 深桑达A (SZ000032)

@@ -1,24 +1,24 @@
 ---
-title: 天孚通信
+title: ST迪瑞
 type: company
-stock_code: SZ300394
+stock_code: SZ300396
 sector: [待分类]
-sources: [raw/reports/300394_天孚通信_2025年年度报告.pdf]
+sources: [raw/reports/300396_ST迪瑞_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06
 confidence: medium
 status: draft
 ---
 
-# 天孚通信 (SZ300394)
+# ST迪瑞 (SZ300396)
 
 | 指标 | 2025年 |
 |------|--------|
-| 营业收入 | 5.16亿 |
+| 营业收入 | 1.82亿 |
 | 归母净利润 | — |
 | ROE | — |
 
 > 数据来源：PDF pdftotext 提取。自动生成页面，待人工/sector 分类审核。
 
 ## Related Pages
-- [[天孚通信2025年年报]]
+- [[ST迪瑞2025年年报]]

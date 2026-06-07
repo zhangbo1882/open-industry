@@ -7,6 +7,7 @@ created: 2026-06-06
 updated: 2026-06-06
 confidence: medium
 status: draft
+sector: [电子/显示器件/显示面板]
 ---
 
 # 深天马A (SZ000050)

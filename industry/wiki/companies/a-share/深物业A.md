@@ -7,6 +7,7 @@ created: 2026-06-06
 updated: 2026-06-06
 confidence: medium
 status: draft
+sector: [房地产/房地产开发/住宅开发]
 ---
 
 # 深物业A (SZ000011)

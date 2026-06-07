@@ -2,7 +2,6 @@
 title: 粤电力A
 type: company
 stock_code: SZ000539
-sector: [电力设备/电力/电力运营]
 sources: [raw/reports/000539_粤电力A_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

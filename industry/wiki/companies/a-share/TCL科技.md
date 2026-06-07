@@ -2,7 +2,6 @@
 title: TCL科技
 type: company
 stock_code: SZ000100
-sector: [信息技术/信息技术/信息技术]
 sources: [raw/reports/000100_TCL科技_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

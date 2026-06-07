@@ -1,0 +1,23 @@
+---
+title: *ST美谷
+type: company
+stock_code: SZ000615
+sources: [raw/reports/000615_*ST美谷_2025年年度报告.pdf]
+created: 2026-06-06
+updated: 2026-06-06
+confidence: medium
+status: draft
+---
+
+# *ST美谷 (SZ000615)
+
+| 指标 | 2025年 |
+|------|--------|
+| 营业收入 | 2.38亿 |
+| 归母净利润 | — |
+| ROE | — |
+
+> 数据来源：PDF pdftotext 提取。
+
+## Related Pages
+- [[*ST美谷2025年年报]]

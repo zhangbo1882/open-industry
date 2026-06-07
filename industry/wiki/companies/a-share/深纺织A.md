@@ -2,6 +2,7 @@
 title: 深纺织A
 type: company
 stock_code: SZ000045
+sector: [消费/纺织服装/纺织服装]
 sources: [raw/reports/000045_深纺织A_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

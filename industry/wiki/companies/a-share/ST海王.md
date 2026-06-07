@@ -1,10 +1,11 @@
 ---
 title: ST海王
 type: company
+sector: [待分类]
 stock_code: SZ000078
 sources: [raw/reports/000078_ST海王_2025年年度报告.pdf]
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-06-07
 confidence: medium
 status: draft
 ---

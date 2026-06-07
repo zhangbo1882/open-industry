@@ -2,9 +2,10 @@
 title: ST三木
 type: company
 stock_code: SZ000632
+sector: [消费/贸易/进出口贸易]
 sources: [raw/reports/000632_ST三木_2025年年度报告.pdf]
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-06-07
 confidence: medium
 status: draft
 ---

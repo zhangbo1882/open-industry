@@ -2,6 +2,7 @@
 title: 粤高速A
 type: company
 stock_code: SZ000429
+sector: [交通运输/公路/公路运输]
 sources: [raw/reports/000429_粤高速A_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

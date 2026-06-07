@@ -8,7 +8,7 @@ sources:
 related:
   - "[[彩虹股份]]"
   - "[[沃格光电]]"
-sector: 电子/显示器件/显示面板
+sector: [电子/显示器件/显示面板]
 confidence: high
 status: active
 ---

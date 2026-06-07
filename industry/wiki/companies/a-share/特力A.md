@@ -7,6 +7,7 @@ created: 2026-06-06
 updated: 2026-06-06
 confidence: medium
 status: draft
+sector: [消费/珠宝/珠宝服务]
 ---
 
 # 特力A (SZ000025)

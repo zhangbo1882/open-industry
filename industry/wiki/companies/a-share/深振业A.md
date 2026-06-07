@@ -7,7 +7,7 @@ created: 2026-06-06
 updated: 2026-06-06
 confidence: medium
 sector: [房地产/房地产开发/住宅开发]
-status: active
+status: draft
 ---
 
 # 深振业A (SZ000006)

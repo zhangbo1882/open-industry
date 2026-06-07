@@ -2,6 +2,7 @@
 title: *ST皇庭
 type: company
 stock_code: SZ000056
+sector: [待分类]
 sources: [raw/reports/000056_*ST皇庭_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06
@@ -17,7 +18,7 @@ status: draft
 | 归母净利润 | -8203.01万 |
 | ROE | -261.92% |
 
-> 数据来源：PDF pdftotext 提取。
+> 数据来源：PDF pdftotext 提取。自动生成页面，待人工/sector 分类审核。
 
 ## Related Pages
 - [[*ST皇庭2025年年报]]

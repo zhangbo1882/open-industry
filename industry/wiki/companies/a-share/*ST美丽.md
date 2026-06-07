@@ -2,6 +2,7 @@
 title: *ST美丽
 type: company
 stock_code: SZ000010
+sector: [待分类]
 sources: [raw/reports/000010_*ST美丽_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06
@@ -17,7 +18,7 @@ status: draft
 | 归母净利润 | -579.53万 |
 | ROE | -12.15% |
 
-> 数据来源：PDF pdftotext 提取。
+> 数据来源：PDF pdftotext 提取。自动生成页面，待人工/sector 分类审核。
 
 ## Related Pages
 - [[*ST美丽2025年年报]]

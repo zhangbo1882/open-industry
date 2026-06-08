@@ -2,7 +2,7 @@
 title: *ST元道
 type: company
 stock_code: SZ301139
-sector: [待分类]
+sector: [通信/通信服务/通信服务]
 sources: [raw/reports/301139_*ST元道_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

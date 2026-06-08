@@ -2,7 +2,7 @@
 title: *ST九鼎
 type: company
 stock_code: SH600053
-sector: [待分类]
+sector: [金融/资管/资管]
 sources: [raw/reports/600053_*ST九鼎_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

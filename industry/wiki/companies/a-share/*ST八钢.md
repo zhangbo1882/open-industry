@@ -2,7 +2,7 @@
 title: *ST八钢
 type: company
 stock_code: SH600581
-sector: [待分类]
+sector: [钢铁/钢铁/钢铁]
 sources: [raw/reports/600581_*ST八钢_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

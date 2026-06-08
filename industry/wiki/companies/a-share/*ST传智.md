@@ -2,7 +2,7 @@
 title: *ST传智
 type: company
 stock_code: SZ003032
-sector: [待分类]
+sector: [教育/教育/教育]
 sources: [raw/reports/003032_*ST传智_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

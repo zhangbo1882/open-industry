@@ -2,7 +2,7 @@
 title: *ST京化
 type: company
 stock_code: SH600889
-sector: [待分类]
+sector: [机械设备/机械零部件/滚动部件]
 sources: [raw/reports/600889_*ST京化_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

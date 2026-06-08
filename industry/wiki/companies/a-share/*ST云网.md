@@ -2,7 +2,7 @@
 title: *ST云网
 type: company
 stock_code: SZ002306
-sector: [待分类]
+sector: [消费/餐饮/餐饮]
 sources: [raw/reports/002306_*ST云网_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

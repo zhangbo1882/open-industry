@@ -2,7 +2,7 @@
 title: *ST中迪
 type: company
 stock_code: SZ000609
-sector: [待分类]
+sector: [房地产/房地产开发/住宅开发]
 sources: [raw/reports/000609_*ST中迪_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

@@ -2,7 +2,7 @@
 title: *ST二重
 type: company
 stock_code: SH601268
-sector: [待分类]
+sector: [机械设备/重型装备/冶金装备]
 sources: [raw/reports/601268_*ST二重_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

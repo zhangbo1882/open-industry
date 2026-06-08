@@ -2,7 +2,7 @@
 title: *ST亚振
 type: company
 stock_code: SH603389
-sector: [待分类]
+sector: [消费/家居/家居]
 sources: [raw/reports/603389_*ST亚振_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

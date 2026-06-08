@@ -2,7 +2,7 @@
 title: *ST华信
 type: company
 stock_code: SZ000765
-sector: [待分类]
+sector: [电子/光通信/光模块]
 sources: [raw/reports/000765_*ST华信_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

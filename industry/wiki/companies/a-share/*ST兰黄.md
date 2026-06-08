@@ -2,7 +2,7 @@
 title: *ST兰黄
 type: company
 stock_code: SZ000929
-sector: [待分类]
+sector: [消费/食品饮料/啤酒]
 sources: [raw/reports/000929_*ST兰黄_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

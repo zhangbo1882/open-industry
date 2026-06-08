@@ -2,7 +2,7 @@
 title: *ST利源
 type: company
 stock_code: SZ002501
-sector: [待分类]
+sector: [有色金属/铝/铝加工]
 sources: [raw/reports/002501_*ST利源_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

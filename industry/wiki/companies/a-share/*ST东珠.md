@@ -2,7 +2,7 @@
 title: *ST东珠
 type: company
 stock_code: SH603359
-sector: [待分类]
+sector: [公用事业/环保/环保]
 sources: [raw/reports/603359_*ST东珠_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

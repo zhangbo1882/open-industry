@@ -2,7 +2,7 @@
 title: *ST中岩
 type: company
 stock_code: SZ002542
-sector: [待分类]
+sector: [建筑装饰/基建/基建]
 sources: [raw/reports/002542_*ST中岩_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

@@ -2,7 +2,7 @@
 title: *ST万方
 type: company
 stock_code: SZ000638
-sector: [待分类]
+sector: [农林牧渔/农业/农业]
 sources: [raw/reports/000638_*ST万方_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

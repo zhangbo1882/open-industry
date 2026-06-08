@@ -2,7 +2,7 @@
 title: *ST东晶
 type: company
 stock_code: SZ002199
-sector: [待分类]
+sector: [电子/电子零部件/电子元器件]
 sources: [raw/reports/002199_*ST东晶_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

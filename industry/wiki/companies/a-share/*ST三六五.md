@@ -2,7 +2,7 @@
 title: *ST三六五
 type: company
 stock_code: SZ300295
-sector: [待分类]
+sector: [信息技术/互联网/互联网]
 sources: [raw/reports/300295_*ST三六五_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

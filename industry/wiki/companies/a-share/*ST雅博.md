@@ -2,7 +2,7 @@
 title: *ST雅博
 type: company
 stock_code: SZ002323
-sector: [电力设备/光伏/光伏]
+sector: [待分类]
 sources: [raw/reports/002323_*ST雅博_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

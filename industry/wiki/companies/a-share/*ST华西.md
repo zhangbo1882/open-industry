@@ -2,7 +2,7 @@
 title: *ST华西
 type: company
 stock_code: SZ002630
-sector: [钢铁/钢铁/钢铁]
+sector: [待分类]
 sources: [raw/reports/002630_*ST华西_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

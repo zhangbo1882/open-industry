@@ -2,7 +2,7 @@
 title: *ST美丽
 type: company
 stock_code: SZ000010
-sector: [电力设备/电力/电力运营]
+sector: [待分类]
 sources: [raw/reports/000010_*ST美丽_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

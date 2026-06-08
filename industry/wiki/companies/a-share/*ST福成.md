@@ -2,7 +2,7 @@
 title: *ST福成
 type: company
 stock_code: SH600965
-sector: [消费/食品饮料/食品饮料]
+sector: [待分类]
 sources: [raw/reports/600965_*ST福成_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

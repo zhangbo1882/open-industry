@@ -2,7 +2,7 @@
 title: *ST泉为
 type: company
 stock_code: SZ300716
-sector: [电力设备/光伏/光伏]
+sector: [待分类]
 sources: [raw/reports/300716_*ST泉为_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

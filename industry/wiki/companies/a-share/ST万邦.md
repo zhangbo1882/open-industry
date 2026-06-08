@@ -2,7 +2,7 @@
 title: ST万邦
 type: company
 stock_code: SZ002082
-sector: [电力设备/电力/电力运营]
+sector: [待分类]
 sources: [raw/reports/002082_ST万邦_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

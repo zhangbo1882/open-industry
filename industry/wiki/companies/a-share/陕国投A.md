@@ -2,7 +2,7 @@
 title: 陕国投A
 type: company
 stock_code: SZ000563
-sector: [金融/资管/资管]
+sector: [待分类]
 sources: [raw/reports/000563_陕国投A_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

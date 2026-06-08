@@ -2,7 +2,7 @@
 title: ST棕榈
 type: company
 stock_code: SZ002431
-sector: [消费/贸易/贸易]
+sector: [待分类]
 sources: [raw/reports/002431_ST棕榈_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

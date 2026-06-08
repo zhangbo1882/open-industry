@@ -2,7 +2,7 @@
 title: *ST金泰
 type: company
 stock_code: SZ300225
-sector: [基础化工/化工/化工]
+sector: [待分类]
 sources: [raw/reports/300225_*ST金泰_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

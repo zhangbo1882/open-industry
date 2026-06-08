@@ -2,7 +2,7 @@
 title: ST任子行
 type: company
 stock_code: SZ300311
-sector: [信息技术/软件/软件]
+sector: [待分类]
 sources: [raw/reports/300311_ST任子行_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

@@ -2,7 +2,7 @@
 title: ST恒信
 type: company
 stock_code: SZ300081
-sector: [信息技术/计算机设备/计算机设备]
+sector: [待分类]
 sources: [raw/reports/300081_ST恒信_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

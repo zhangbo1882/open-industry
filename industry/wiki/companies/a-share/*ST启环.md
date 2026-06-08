@@ -2,7 +2,7 @@
 title: *ST启环
 type: company
 stock_code: SZ000826
-sector: [信息技术/互联网/互联网]
+sector: [待分类]
 sources: [raw/reports/000826_*ST启环_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

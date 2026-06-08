@@ -2,7 +2,7 @@
 title: ST能特
 type: company
 stock_code: SZ002102
-sector: [电子/半导体/半导体]
+sector: [待分类]
 sources: [raw/reports/002102_ST能特_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

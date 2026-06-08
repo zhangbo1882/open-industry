@@ -2,7 +2,7 @@
 title: *ST东智
 type: company
 stock_code: SZ002175
-sector: [房地产/产业地产/产业园区]
+sector: [待分类]
 sources: [raw/reports/002175_*ST东智_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

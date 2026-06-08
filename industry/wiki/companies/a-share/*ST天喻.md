@@ -2,7 +2,7 @@
 title: *ST天喻
 type: company
 stock_code: SZ300205
-sector: [教育/教育/教育]
+sector: [待分类]
 sources: [raw/reports/300205_*ST天喻_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

@@ -1,3 +1,8 @@
+### Ingest: S佳通2025年年报
+- **主营业务**: 汽车轮胎生产销售
+- **Sector**: 汽车/汽车零部件/轮胎
+- 更新 wiki/sources/S佳通2025年年报.md、wiki/companies/a-share/S佳通.md
+
 # 操作日志
 
 ## 2026-06-05

@@ -2,7 +2,7 @@
 title: *ST威领
 type: company
 stock_code: SZ002667
-sector: [待分类]
+sector: [有色金属/稀有小金属/稀有小金属]
 sources: [raw/reports/002667_*ST威领_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

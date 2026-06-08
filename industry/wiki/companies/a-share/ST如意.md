@@ -2,7 +2,7 @@
 title: ST如意
 type: company
 stock_code: SZ002193
-sector: [待分类]
+sector: [消费/纺织服装/纺织服装]
 sources: [raw/reports/002193_ST如意_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

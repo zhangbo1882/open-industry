@@ -2,7 +2,7 @@
 title: *ST顾地
 type: company
 stock_code: SZ002694
-sector: [待分类]
+sector: [基础化工/化工/化工]
 sources: [raw/reports/002694_*ST顾地_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

@@ -2,7 +2,7 @@
 title: *ST赛隆
 type: company
 stock_code: SZ002898
-sector: [待分类]
+sector: [信息技术/计算机设备/计算机设备]
 sources: [raw/reports/002898_*ST赛隆_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

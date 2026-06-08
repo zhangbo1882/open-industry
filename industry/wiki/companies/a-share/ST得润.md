@@ -2,7 +2,7 @@
 title: ST得润
 type: company
 stock_code: SZ002055
-sector: [待分类]
+sector: [房地产/物业管理/物业管理]
 sources: [raw/reports/002055_ST得润_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

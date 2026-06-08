@@ -2,7 +2,7 @@
 title: *ST摩登
 type: company
 stock_code: SZ002656
-sector: [待分类]
+sector: [信息技术/互联网/互联网]
 sources: [raw/reports/002656_*ST摩登_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06

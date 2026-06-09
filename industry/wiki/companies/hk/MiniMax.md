@@ -4,7 +4,7 @@ type: company
 stock_code:
   港交所: "0100"
 industry: 信息技术/AI/大语言模型
-sector: 信息技术/AI/大语言模型
+sector: [信息技术/AI/大语言模型]
 sub_industry: 全模态AI
 position_in_chain: 中游（大模型+AI产品）
 employees: N/A

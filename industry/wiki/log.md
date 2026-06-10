@@ -1,3 +1,49 @@
+### Ingest: TCL科技2025年年报（深度重做）
+
+- **源文件**: `raw/reports/SZ000100_TCL科技_2025年年度报告.pdf`
+- **pdftotext**: 待提取行
+- **重写** `wiki/companies/a-share/TCL科技.md` — 完整财务+业务拆分+产业链+客户供应商+市场地位
+- **更新** `wiki/sectors/显示面板.md` — 新增TCL科技（2→3家）
+- **更新** `wiki/syntheses/行业分类全景.md` — 统计更新
+- **关键数据**: 营收1,652.68亿，TCL华星显示面板+光伏+硅材料多元化布局，LCD TV面板出货量全球第二
+
+### Ingest: TCL中环2025年年报（深度重做）
+
+- **源文件**: `raw/reports/SZ002129_TCL中环_2025年年度报告.pdf`
+- **pdftotext**: 待提取行
+- **重写** `wiki/companies/a-share/TCL中环.md` — 完整财务+业务拆分+产业链+客户供应商+市场地位
+- **更新** `wiki/sectors/光伏制造.md` — 新增TCL中环（1→2家）
+- **更新** `wiki/syntheses/行业分类全景.md` — 统计更新
+- **关键数据**: 营收290.50亿+2.22%，净亏损92.64亿，光伏硅片行业周期底部，全球光伏硅片龙头
+
+### Ingest: TCL智家2025年年报（深度重做）
+
+- **源文件**: `raw/reports/SZ002668_TCL智家_2025年年度报告.pdf`
+- **pdftotext**: 待提取行
+- **重写** `wiki/companies/a-share/TCL智家.md` — 完整财务+业务拆分+产业链+客户供应商+市场地位
+- **更新** `wiki/sectors/白电.md` — 新增TCL智家（已有）
+- **更新** `wiki/syntheses/行业分类全景.md` — 统计更新
+- **关键数据**: 冰箱冷柜+洗衣机，白电企业
+
+### Ingest: 一博科技2025年年报（深度重做）
+
+- **源文件**: `raw/reports/SZ301366_一博科技_2025年年度报告.pdf`
+- **pdftotext**: 待提取行
+- **重写** `wiki/companies/a-share/一博科技.md` — 完整财务+业务拆分+产业链+客户供应商+市场地位
+- **更新** `wiki/sectors/PCB研发设计.md` — 新建L3页面，新增一博科技
+- **更新** `wiki/sectors/PCB.md` — 新增PCB研发设计细分领域
+- **更新** `wiki/syntheses/行业分类全景.md` — 新增PCB研发设计三级行业
+- **关键数据**: PCB研发设计+PCBA制造，PCB设计服务龙头
+
+### Ingest: 一品红2025年年报（深度重做）
+
+- **源文件**: `raw/reports/SZ300723_一品红_2025年年度报告.pdf`
+- **pdftotext**: 待提取行
+- **重写** `wiki/companies/a-share/一品红.md` — 完整财务+业务拆分+产业链+客户供应商+市场地位
+- **更新** `wiki/sectors/化学制药.md` — 新增一品红（已有）
+- **更新** `wiki/syntheses/行业分类全景.md` — 统计更新
+- **关键数据**: 儿童药+慢病药，化学制药企业
+
 ### Ingest: 德赛电池2025年年报（深度重做）
 
 - **源文件**: `raw/reports/000049_德赛电池_2025年年度报告.pdf`

@@ -3,6 +3,7 @@ title: TCL智家
 type: company
 stock_code: SZ002668
 sector: [消费/家电/白电]
+industry: 消费
 sources:
   - "[[TCL智家2025年年报]]"
 related:

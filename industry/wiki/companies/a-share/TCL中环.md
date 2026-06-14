@@ -3,6 +3,7 @@ title: TCL中环
 type: company
 stock_code: SZ002129
 sector: [电力设备/光伏/光伏制造]
+industry: 其他
 sources:
   - "[[TCL中环2025年年报]]"
 related:

@@ -3,6 +3,7 @@ title: 南玻A
 type: company
 stock_code: SZ000012
 sector: [建材/玻璃/玻璃]
+industry: 建筑
 sources:
   - "[[南玻A2025年年报]]"
 related:

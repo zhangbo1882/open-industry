@@ -6,11 +6,19 @@ sources: [raw/reports/000011_深物业A_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06
 confidence: medium
-status: draft
+status: active
 sector: [房地产/房地产开发/住宅开发]
+industry: 房地产
 ---
 
 # 深物业A (SZ000011)
+
+## 公司概况
+
+| 项目 | 内容 |
+|------|------|
+| 公司全称 | 深物业A |
+| 所属行业 | 房地产/房地产开发/住宅开发 |
 
 | 指标 | 2025年 |
 |------|--------|

@@ -3,6 +3,7 @@ title: 深天马A
 type: company
 stock_code: SZ000050
 sector: [电子/显示器件/显示面板]
+industry: 电子
 sources:
   - "[[深天马A2025年年报]]"
 related:

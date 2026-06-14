@@ -3,6 +3,7 @@ title: TCL科技
 type: company
 stock_code: SZ000100
 sector: [电子/显示器件/显示面板]
+industry: 电子
 sources:
   - "[[TCL科技2025年年报]]"
 related:

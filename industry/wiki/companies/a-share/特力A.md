@@ -6,11 +6,19 @@ sources: [raw/reports/000025_特力A_2025年年度报告.pdf]
 created: 2026-06-06
 updated: 2026-06-06
 confidence: medium
-status: draft
+status: active
 sector: [消费/珠宝/珠宝服务]
+industry: 电子
 ---
 
 # 特力A (SZ000025)
+
+## 公司概况
+
+| 项目 | 内容 |
+|------|------|
+| 公司全称 | 特力A |
+| 所属行业 | 消费/珠宝/珠宝服务 |
 
 | 指标 | 2025年 |
 |------|--------|

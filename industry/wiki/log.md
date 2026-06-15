@@ -2433,3 +2433,5 @@ Lint: 18 PASS / 1 FAIL / 2 WARNING → 修复后全 PASS
 - 摩尔线程/安集科技/菲利华/东山精密: 补公司概况
 - 彩虹股份/摩尔线程: 补industry
 - ~清除×4
+
+2026-06-15 · ingest · 东杰智能 (SZ300486) · sector=[机械设备/自动化/工业自动化] · 5/5 financials

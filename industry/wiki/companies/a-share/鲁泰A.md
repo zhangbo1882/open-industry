@@ -2,23 +2,36 @@
 title: 鲁泰A
 type: company
 stock_code: SZ000726
-sector: [待分类]
+sector: [消费/纺织服装/棉纺织]
+industry: 消费
+position_in_chain: 中游
 sources: [raw/reports/000726_鲁泰A_2025年年度报告.pdf]
 created: 2026-06-06
-updated: 2026-06-06
-confidence: medium
-status: draft
+updated: 2026-06-17
+confidence: high
+status: active
+tags: [色织布, 棉纺织, 衬衫面料]
 ---
 
 # 鲁泰A (SZ000726)
 
+> 国家队Q1增持 | 色织布(衬衫面料)全球龙头。2025年营收59.04亿(-3.06%)，归母净利5.94亿，ROE 6.16%。
+
+## 公司概况
+
+- **主营业务**：色织布、匹染布及衬衫的研发生产，高端衬衫面料全球领先。
+
+## 财务数据（2025年年度报告）
+
 | 指标 | 2025年 |
 |------|--------|
-| 营业收入 | 14.53亿 |
-| 归母净利润 | 1.48亿 |
-| ROE | 6.16% |
+| 营业收入 | 59.04亿元（同比-3.06%） |
+| 归母净利润 | 5.94亿元 |
+| 加权平均ROE | 6.16%% |
 
-> 数据来源：PDF pdftotext 提取。自动生成页面，待人工/sector 分类审核。
+
+---
 
 ## Related Pages
-- [[鲁泰A2025年年报]]
+
+- [[000726_鲁泰A_2025年年度报告]]

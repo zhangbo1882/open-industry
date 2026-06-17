@@ -1,19 +1,19 @@
 ---
-title: 倍加洁
+title: ST绝味
 type: company
-stock_code: 603059
-sector: [消费/口腔护理/口腔护理]
+stock_code: 603517
+sector: [消费/休闲零食/休闲零食]
 industry: 消费
 position_in_chain: 中游
-sources: [raw/reports/603059_倍加洁_2025年年度报告.pdf]
+sources: [raw/reports/603517_ST绝味_2025年年度报告.pdf]
 created: 2026-06-17
 updated: 2026-06-17
 confidence: low
 status: active
-tags: [口腔护理]
+tags: [休闲零食]
 ---
 
-# 倍加洁 (603059)
+# ST绝味 (603517)
 
 > 国家队Q1不变
 
@@ -21,10 +21,10 @@ tags: [口腔护理]
 
 | 指标 | 2025年 |
 |------|--------|
-| 营业收入 | 15.35亿 |
-| 归母净利润 | 1.15亿 |
+| 营业收入 | 54.67亿 |
+| 归母净利润 | — |
 | 加权平均ROE | — |
 
 ---
 ## Related Pages
-- [[603059_倍加洁_2025年年度报告]]
+- [[603517_ST绝味_2025年年度报告]]

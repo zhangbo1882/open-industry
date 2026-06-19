@@ -1,0 +1,52 @@
+name: synthesis-regression-guard
+
+# Append-only synthesis files must never LOSE entries on a merge. A line-count
+# regression means a merge conflict was side-picked (took the PR's older/smaller
+# version instead of union-merging). This guard auto-blocks such PRs.
+# See CLAUDE.md "合并规则 — append-only 合成文件".
+
+on:
+  pull_request:
+    paths:
+      - 'industry/wiki/syntheses/行业分类全景.md'
+      - 'industry/wiki/syntheses/公司关联图谱.md'
+      - 'industry/wiki/index.md'
+      - 'industry/wiki/log.md'
+
+permissions:
+  contents: read
+
+jobs:
+  guard:
+    # Only check when GitHub can compute a merge result. Conflicting (unmergeable)
+    # PRs are already blocked by GitHub, so skip here.
+    if: ${{ github.event.pull_request.merge_commit_sha != '' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout PR merge result
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.merge_commit_sha }}
+          fetch-depth: 0
+
+      - name: Block append-only synthesis-file regression
+        env:
+          BASE_REF: ${{ github.base_ref }}
+        run: |
+          set -uo pipefail
+          git fetch origin "$BASE_REF"
+          fail=0
+          for f in \
+            "industry/wiki/syntheses/行业分类全景.md" \
+            "industry/wiki/syntheses/公司关联图谱.md" \
+            "industry/wiki/index.md" \
+            "industry/wiki/log.md"; do
+            base=$(git show "origin/${BASE_REF}:$f" 2>/dev/null | wc -l); base=${base:-0}
+            cur=$(wc -l < "$f" 2>/dev/null); cur=${cur:-0}
+            echo "$f : base(main)=${base}  merge(pr)=${cur}"
+            if [ "${cur}" -lt "${base}" ]; then
+              echo "::error file=${f}::append-only synthesis file REGRESSED (${base} -> ${cur} lines). A merge conflict was likely side-picked. Re-resolve as UNION (keep BOTH sides); see CLAUDE.md '合并规则'."
+              fail=1
+            fi
+          done
+          exit ${fail}

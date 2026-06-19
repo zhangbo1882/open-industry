@@ -2,7 +2,7 @@
 title: ST绝味
 type: company
 stock_code: 603517
-sector: [消费/休闲零食/休闲零食]
+sector: [消费/食品饮料/休闲零食]
 industry: 消费
 position_in_chain: 中游
 sources: [raw/reports/603517_ST绝味_2025年年度报告.pdf]

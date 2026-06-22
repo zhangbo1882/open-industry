@@ -3458,3 +3458,9 @@ draft剩余: 3386 (营收排序)
 ### 数据修复
 - 修复 ROE 双百分号格式 (%% → %) x 5家
 - 修复蔚蓝锂芯/欣旺达 sector L2 不匹配
+
+### Batch A: 9 companies (PRs #5-#13 merged) — 2026-06-22
+
+东湖高新/东方海洋/东方电热/东瑞股份/东杰智能/东江环保/东港股份/东箭科技/东望时代
+
+Cherry-picked from single-company PRs into batch PR.

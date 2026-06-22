@@ -301,6 +301,23 @@ grep -n "营业收入\|毛利率\|研发投入\|分产品\|分行业\|前五名"
 - 页面底部添加 "Related Pages" 章节，列出相关链接
 
 
+## 合并规则 — append-only 合成文件（强制）
+
+以下 4 个文件是 **append-only**（只增不删、跨所有 ingest 共享）：
+- `wiki/syntheses/行业分类全景.md`
+- `wiki/syntheses/公司关联图谱.md`
+- `wiki/index.md`
+- `wiki/log.md`
+
+**任何 merge / rebase 触及这些文件的冲突时，必须 UNION 解决——两边的内容都保留，绝不选一边。**
+理由：每个 batch ingest 都向这些文件追加（新增公司/关联/条目），所以与 main 的冲突是**常态而非意外**。选边（如取 PR 分支的旧版本）会丢掉 main 上其他 batch 已追加的条目（实例：2026-06-19 panorama 被 side-pick 成 382 行，丢了 Batch 8 的 ~780 家）。
+
+正确做法：
+- panorama/index/log：取**行数更多**的一边为基础，再把另一边独有的新增行补进去。
+- 公司关联图谱：合并两边的关联条目（去重）。
+- 拿不准时：`git checkout main -- <file>` 取 main 版本，再手动补本次 PR 的新增。
+- CI guard（`.github/workflows/synthesis-guard.yml`）会**自动拦截**这些文件行数回退的 PR。
+
 ## 会话启动检查清单
 
 每次新会话开始时：

@@ -3458,3 +3458,9 @@ draft剩余: 3386 (营收排序)
 ### 数据修复
 - 修复 ROE 双百分号格式 (%% → %) x 5家
 - 修复蔚蓝锂芯/欣旺达 sector L2 不匹配
+
+### Batch B: 8 companies (PRs #14-#21 merged) — 2026-06-22
+
+东莞控股/东诚药业/东贝集团/东软载波/东软集团/东阳光/东风科技/东风股份
+
+Cherry-picked from single-company PRs into batch PR.

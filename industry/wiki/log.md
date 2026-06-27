@@ -3461,6 +3461,8 @@ draft剩余: 3386 (营收排序)
 
 ### Batch A: 9 companies (PRs #5-#13 merged) — 2026-06-22
 
+#### 2026-06-27 · ingest · 中利集团 (SZ002309) · sector=[电力设备/输变电设备/电线电缆] · 5/5 financials
+
 东湖高新/东方海洋/东方电热/东瑞股份/东杰智能/东江环保/东港股份/东箭科技/东望时代
 
 Cherry-picked from single-company PRs into batch PR.

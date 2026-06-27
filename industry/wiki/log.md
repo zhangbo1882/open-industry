@@ -3464,3 +3464,5 @@ draft剩余: 3386 (营收排序)
 东湖高新/东方海洋/东方电热/东瑞股份/东杰智能/东江环保/东港股份/东箭科技/东望时代
 
 Cherry-picked from single-company PRs into batch PR.
+
+2026-06-27 · ingest · 中力股份 (SH603194) · sector=[机械设备/工程机械/工程机械] · 5/5 financials

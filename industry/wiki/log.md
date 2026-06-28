@@ -3478,3 +3478,11 @@ Cherry-picked from single-company PRs into batch PR.
 ### Batch 15: 4 companies (中华企业~中原环保) — 2026-06-28
 
 中华企业/中南文化/中南股份/中原环保 — all GATE PASSED. Batch-branch mode verified.
+
+3482:d05
+### Batch 16: 中国动力 (SH600482) — 2026-06-28
+3484:d05
+中国动力 — 中国动力（SH600482，CSSC旗下船舶动力装备龙头，柴油机动力营收287亿占49.7%，归母13.01亿，ROE 3.28%）
+sector=[机械设备/专用设备/重型装备] conf=medium (closest existing L3; no dedicated 船舶动力/发动机制造 L3)
+
+2026-06-28 · ingest · 中国动力 (SH600482) · sector=[机械设备/专用设备/重型装备] · 5/5 financials

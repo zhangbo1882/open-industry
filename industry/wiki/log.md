@@ -3466,3 +3466,5 @@ draft剩余: 3386 (营收排序)
 Cherry-picked from single-company PRs into batch PR.
 
 #### 2026-06-22 · ingest · 东方环宇 (SH603706) · sector=[公用事业/燃气/燃气] · 5/5 financials
+
+#### 2026-06-28 · ingest · 中华企业 (SH600675) · sector=[房地产/房地产开发/住宅开发] · 5/5 financials

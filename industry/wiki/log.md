@@ -3478,3 +3478,5 @@ Cherry-picked from single-company PRs into batch PR.
 ### Batch 15: 4 companies (中华企业~中原环保) — 2026-06-28
 
 中华企业/中南文化/中南股份/中原环保 — all GATE PASSED. Batch-branch mode verified.
+
+2026-06-28 · ingest · 中华企业 (SH600675) · sector=[房地产/房地产开发/住宅开发] · 5/5 financials

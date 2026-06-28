@@ -3478,3 +3478,5 @@ Cherry-picked from single-company PRs into batch PR.
 ### Batch 15: 4 companies (中华企业~中原环保) — 2026-06-28
 
 中华企业/中南文化/中南股份/中原环保 — all GATE PASSED. Batch-branch mode verified.
+
+2026-06-28 · ingest · 中哲精化 (SZ000953) · sector=[基础化工/化工/精细化工] · 5/5 financials

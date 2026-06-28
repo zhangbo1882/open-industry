@@ -3464,3 +3464,5 @@ draft剩余: 3386 (营收排序)
 东湖高新/东方海洋/东方电热/东瑞股份/东杰智能/东江环保/东港股份/东箭科技/东望时代
 
 Cherry-picked from single-company PRs into batch PR.
+
+#### 2026-06-22 · ingest · 东方环宇 (SH603706) · sector=[公用事业/燃气/燃气] · 5/5 financials

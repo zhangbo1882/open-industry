@@ -3466,3 +3466,7 @@ draft剩余: 3386 (营收排序)
 Cherry-picked from single-company PRs into batch PR.
 
 #### 2026-06-22 · ingest · 东方环宇 (SH603706) · sector=[公用事业/燃气/燃气] · 5/5 financials
+
+### Batch 13 consolidated: 15 companies (PRs #34-#48) — 2026-06-27
+
+东方环宇/东方锆业/东星医疗/东材科技/东百集团/中元股份/中公高科/中兰环保/中兵红箭/中再资环/中农立华/中创环保/中农联合/中利集团/中力股份

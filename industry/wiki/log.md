@@ -3470,3 +3470,7 @@ Cherry-picked from single-company PRs into batch PR.
 ### Batch 13 consolidated: 15 companies (PRs #34-#48) — 2026-06-27
 
 东方环宇/东方锆业/东星医疗/东材科技/东百集团/中元股份/中公高科/中兰环保/中兵红箭/中再资环/中农立华/中创环保/中农联合/中利集团/中力股份
+
+### Batch 14: 5 companies — 2026-06-28
+
+中华企业/中南文化/中南股份/中原环保/中原证券 — all GATE PASSED.

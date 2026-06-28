@@ -3478,3 +3478,11 @@ Cherry-picked from single-company PRs into batch PR.
 ### Batch 15: 4 companies (中华企业~中原环保) — 2026-06-28
 
 中华企业/中南文化/中南股份/中原环保 — all GATE PASSED. Batch-branch mode verified.
+
+#### 2026-06-28 — 深度 ingest 中原环保 2025年年报（CLASSIFY node）
+
+| 公司 | 代码 | 营收(亿) | 归母净利(亿) | ROE | L3分类 | 备注 |
+|------|------|---------|------------|-----|--------|------|
+| 中原环保 | SZ000544 | 55.40 | 10.75 | 11.89% | 公用事业/环保/水处理 | 从draft升级为active，更新完整财务数据 |
+
+2026-06-28 · ingest · 中原环保 (SZ000544) · sector=[公用事业/环保/水处理] · 5/5 financials

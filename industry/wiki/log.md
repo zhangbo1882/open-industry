@@ -3491,3 +3491,6 @@ Cherry-picked from single-company PRs into batch PR.
 ### Batch 15-16 consolidated: 6 companies — 2026-06-28
 
 中华企业/中南股份/中原环保/中哲精化/中国出版/中国动力 — all reviewed APPROVED.
+
+### Batch 17: 3 companies — 2026-06-29
+中原高速/中哲精化/中国出版 — reviewed APPROVED.

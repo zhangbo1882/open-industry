@@ -3485,3 +3485,5 @@ Cherry-picked from single-company PRs into batch PR.
 ### Batch 15-16 consolidated: 6 companies — 2026-06-28
 
 中华企业/中南股份/中原环保/中哲精化/中国出版/中国动力 — all reviewed APPROVED.
+
+#### 2026-06-29 · ingest · 中哲精化 (SZ000953) · sector=[医药生物/医药/原料药] · 5/5 financials

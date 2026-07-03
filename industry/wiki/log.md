@@ -3496,3 +3496,5 @@ Cherry-picked from single-company PRs into batch PR.
 中原高速/中哲精化/中国出版 — reviewed APPROVED.
 
 #### 2026-06-29 · ingest · 中哲精化 (SZ000953) · sector=[基础化工/化工/精细化工] · 5/5 financials
+
+#### 2026-07-03 · ingest · 中国出版 (SH601949) · sector=[传媒/出版/大众出版] · 5/5 financials

@@ -3498,3 +3498,5 @@ Cherry-picked from single-company PRs into batch PR.
 #### 2026-06-29 · ingest · 中哲精化 (SZ000953) · sector=[基础化工/化工/精细化工] · 5/5 financials
 
 #### 2026-07-03 · ingest · 中国动力 (SH600482) · sector=[机械设备/专用设备/重型装备] · 5/5 financials
+### Batch 19: 3 companies — 2026-07-03
+中国动力/中国出版/中原高速 — all reviewed APPROVED. 中国动力 finally PASS (prev: 2x GATE FAIL).

@@ -3500,3 +3500,9 @@ Cherry-picked from single-company PRs into batch PR.
 #### 2026-07-03 · ingest · 中国动力 (SH600482) · sector=[机械设备/专用设备/重型装备] · 5/5 financials
 ### Batch 19: 3 companies — 2026-07-03
 中国动力/中国出版/中原高速 — all reviewed APPROVED. 中国动力 finally PASS (prev: 2x GATE FAIL).
+
+#### 2026-07-03 · ingest · 中元股份 (SZ300018) · sector=[电力设备/输变电设备/电网自动化] · 5/5 financials
+
+| 公司 | 代码 | 营收(亿) | 归母净利(亿) | ROE | L3分类 | 备注 |
+|------|------|---------|------------|-----|--------|------|
+| 中元股份 | SZ300018 | 6.55 | 1.39 | 10.31% | 电力设备/输变电设备/电网自动化 | 公司页面 draft→active，新增L3电网自动化 |

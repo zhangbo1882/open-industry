@@ -1,0 +1,1846 @@
+{
+  "period": "20260331",
+  "total_count": 184,
+  "items": [
+    {
+      "stock_code": "601988",
+      "name": "中国银行",
+      "exchange": "SH",
+      "ratio": 61.6187,
+      "amount_yi": 1985.431,
+      "sw": "银行/国有大型银行Ⅱ/国有大型银行Ⅲ",
+      "_rank": 1,
+      "_status": "active"
+    },
+    {
+      "stock_code": "601939",
+      "name": "建设银行",
+      "exchange": "SH",
+      "ratio": 55.6359,
+      "amount_yi": 1455.438,
+      "sw": "银行/国有大型银行Ⅱ/国有大型银行Ⅲ",
+      "_rank": 2,
+      "_status": "active"
+    },
+    {
+      "stock_code": "601288",
+      "name": "农业银行",
+      "exchange": "SH",
+      "ratio": 41.0268,
+      "amount_yi": 1435.87,
+      "sw": "银行/国有大型银行Ⅱ/国有大型银行Ⅲ",
+      "_rank": 3,
+      "_status": "active"
+    },
+    {
+      "stock_code": "601398",
+      "name": "工商银行",
+      "exchange": "SH",
+      "ratio": 35.7555,
+      "amount_yi": 1274.347,
+      "sw": "银行/国有大型银行Ⅱ/国有大型银行Ⅲ",
+      "_rank": 4,
+      "_status": "active"
+    },
+    {
+      "stock_code": "000166",
+      "name": "申万宏源",
+      "exchange": "SZ",
+      "ratio": 22.5872,
+      "amount_yi": 56.558,
+      "sw": "非银金融/证券Ⅱ/证券Ⅲ",
+      "_rank": 5,
+      "_status": "active"
+    },
+    {
+      "stock_code": "601066",
+      "name": "中信建投",
+      "exchange": "SH",
+      "ratio": 30.7612,
+      "amount_yi": 23.861,
+      "sw": "非银金融/证券Ⅱ/证券Ⅲ",
+      "_rank": 6,
+      "_status": "active"
+    },
+    {
+      "stock_code": "601995",
+      "name": "中金公司",
+      "exchange": "SH",
+      "ratio": 40.1088,
+      "amount_yi": 19.362,
+      "sw": "非银金融/证券Ⅱ/证券Ⅲ",
+      "_rank": 7,
+      "_status": "active"
+    },
+    {
+      "stock_code": "601328",
+      "name": "交通银行",
+      "exchange": "SH",
+      "ratio": 2.1408,
+      "amount_yi": 18.917,
+      "sw": "银行/国有大型银行Ⅱ/国有大型银行Ⅲ",
+      "_rank": 8,
+      "_status": "active"
+    },
+    {
+      "stock_code": "600795",
+      "name": "国电电力",
+      "exchange": "SH",
+      "ratio": 6.2028,
+      "amount_yi": 11.063,
+      "sw": "公用事业/电力/火力发电",
+      "_rank": 9,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "601318",
+      "name": "中国平安",
+      "exchange": "SH",
+      "ratio": 2.5973,
+      "amount_yi": 4.703,
+      "sw": "非银金融/保险Ⅱ/保险Ⅲ",
+      "_rank": 10,
+      "_status": "active"
+    },
+    {
+      "stock_code": "600177",
+      "name": "雅戈尔",
+      "exchange": "SH",
+      "ratio": 5.4317,
+      "amount_yi": 2.511,
+      "sw": "纺织服饰/服装家纺/非运动服装",
+      "_rank": 11,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600030",
+      "name": "中信证券",
+      "exchange": "SH",
+      "ratio": 1.3842,
+      "amount_yi": 2.051,
+      "sw": "非银金融/证券Ⅱ/证券Ⅲ",
+      "_rank": 12,
+      "_status": "active"
+    },
+    {
+      "stock_code": "600999",
+      "name": "招商证券",
+      "exchange": "SH",
+      "ratio": 1.9639,
+      "amount_yi": 1.708,
+      "sw": "非银金融/证券Ⅱ/证券Ⅲ",
+      "_rank": 13,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "300059",
+      "name": "东方财富",
+      "exchange": "SZ",
+      "ratio": 0.9602,
+      "amount_yi": 1.517,
+      "sw": "非银金融/证券Ⅱ/证券Ⅲ",
+      "_rank": 14,
+      "_status": "active"
+    },
+    {
+      "stock_code": "600808",
+      "name": "马钢股份",
+      "exchange": "SH",
+      "ratio": 1.8073,
+      "amount_yi": 1.392,
+      "sw": "钢铁/普钢/板材",
+      "_rank": 15,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "601000",
+      "name": "唐山港",
+      "exchange": "SH",
+      "ratio": 1.5491,
+      "amount_yi": 0.918,
+      "sw": "交通运输/航运港口/港口",
+      "_rank": 16,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600026",
+      "name": "中远海能",
+      "exchange": "SH",
+      "ratio": 1.6604,
+      "amount_yi": 0.907,
+      "sw": "交通运输/航运港口/航运",
+      "_rank": 17,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002153",
+      "name": "石基信息",
+      "exchange": "SZ",
+      "ratio": 2.8966,
+      "amount_yi": 0.791,
+      "sw": "计算机/软件开发/垂直应用软件",
+      "_rank": 18,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002142",
+      "name": "宁波银行",
+      "exchange": "SZ",
+      "ratio": 1.1433,
+      "amount_yi": 0.755,
+      "sw": "银行/城商行Ⅱ/城商行Ⅲ",
+      "_rank": 19,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600452",
+      "name": "涪陵电力",
+      "exchange": "SH",
+      "ratio": 4.5557,
+      "amount_yi": 0.7,
+      "sw": "公用事业/电力/电能综合服务",
+      "_rank": 20,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "000728",
+      "name": "国元证券",
+      "exchange": "SZ",
+      "ratio": 1.5579,
+      "amount_yi": 0.68,
+      "sw": "非银金融/证券Ⅱ/证券Ⅲ",
+      "_rank": 21,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600208",
+      "name": "衢州发展",
+      "exchange": "SH",
+      "ratio": 0.7833,
+      "amount_yi": 0.666,
+      "sw": "房地产/房地产开发/住宅开发",
+      "_rank": 22,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002415",
+      "name": "海康威视",
+      "exchange": "SZ",
+      "ratio": 0.706,
+      "amount_yi": 0.647,
+      "sw": "计算机/计算机设备/安防设备",
+      "_rank": 23,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "000031",
+      "name": "大悦城",
+      "exchange": "SZ",
+      "ratio": 1.5043,
+      "amount_yi": 0.645,
+      "sw": "房地产/房地产开发/商业地产",
+      "_rank": 24,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "601018",
+      "name": "宁波港",
+      "exchange": "SH",
+      "ratio": 0.3223,
+      "amount_yi": 0.627,
+      "sw": "交通运输/航运港口/港口",
+      "_rank": 25,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600522",
+      "name": "中天科技",
+      "exchange": "SH",
+      "ratio": 1.786,
+      "amount_yi": 0.61,
+      "sw": "通信/通信设备/通信线缆及配套",
+      "_rank": 26,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600017",
+      "name": "日照港",
+      "exchange": "SH",
+      "ratio": 1.8425,
+      "amount_yi": 0.567,
+      "sw": "交通运输/航运港口/港口",
+      "_rank": 27,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600812",
+      "name": "华北制药",
+      "exchange": "SH",
+      "ratio": 3.2008,
+      "amount_yi": 0.549,
+      "sw": "医药生物/化学制药/化学制剂",
+      "_rank": 28,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002129",
+      "name": "TCL中环",
+      "exchange": "SZ",
+      "ratio": 1.3411,
+      "amount_yi": 0.542,
+      "sw": "电力设备/光伏设备/硅料硅片",
+      "_rank": 29,
+      "_status": "active"
+    },
+    {
+      "stock_code": "600256",
+      "name": "广汇能源",
+      "exchange": "SH",
+      "ratio": 0.8459,
+      "amount_yi": 0.541,
+      "sw": "石油石化/炼化及贸易/油品石化贸易",
+      "_rank": 30,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600170",
+      "name": "上海建工",
+      "exchange": "SH",
+      "ratio": 0.5942,
+      "amount_yi": 0.528,
+      "sw": "建筑装饰/房屋建设Ⅱ/房屋建设Ⅲ",
+      "_rank": 31,
+      "_status": "active"
+    },
+    {
+      "stock_code": "000598",
+      "name": "兴蓉环境",
+      "exchange": "SZ",
+      "ratio": 1.7685,
+      "amount_yi": 0.528,
+      "sw": "环保/环境治理/水务及水治理",
+      "_rank": 32,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "000402",
+      "name": "金融街",
+      "exchange": "SZ",
+      "ratio": 1.7325,
+      "amount_yi": 0.518,
+      "sw": "房地产/房地产开发/商业地产",
+      "_rank": 33,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002500",
+      "name": "山西证券",
+      "exchange": "SZ",
+      "ratio": 1.4401,
+      "amount_yi": 0.517,
+      "sw": "非银金融/证券Ⅱ/证券Ⅲ",
+      "_rank": 34,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "000563",
+      "name": "陕国投Ａ",
+      "exchange": "SZ",
+      "ratio": 0.9966,
+      "amount_yi": 0.51,
+      "sw": "非银金融/多元金融/信托",
+      "_rank": 35,
+      "_status": "new"
+    },
+    {
+      "stock_code": "600970",
+      "name": "中材国际",
+      "exchange": "SH",
+      "ratio": 1.9174,
+      "amount_yi": 0.503,
+      "sw": "建筑装饰/专业工程/国际工程",
+      "_rank": 36,
+      "_status": "active"
+    },
+    {
+      "stock_code": "000061",
+      "name": "农产品",
+      "exchange": "SZ",
+      "ratio": 2.5311,
+      "amount_yi": 0.502,
+      "sw": "商贸零售/一般零售/商业物业经营",
+      "_rank": 37,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600642",
+      "name": "申能股份",
+      "exchange": "SH",
+      "ratio": 1.0226,
+      "amount_yi": 0.5,
+      "sw": "公用事业/电力/火力发电",
+      "_rank": 38,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600252",
+      "name": "中恒集团",
+      "exchange": "SH",
+      "ratio": 1.5634,
+      "amount_yi": 0.498,
+      "sw": "医药生物/中药Ⅱ/中药Ⅲ",
+      "_rank": 39,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "000652",
+      "name": "泰达股份",
+      "exchange": "SZ",
+      "ratio": 3.3176,
+      "amount_yi": 0.49,
+      "sw": "综合/综合Ⅱ/综合Ⅲ",
+      "_rank": 40,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "000089",
+      "name": "深圳机场",
+      "exchange": "SZ",
+      "ratio": 2.3522,
+      "amount_yi": 0.482,
+      "sw": "交通运输/航空机场/机场",
+      "_rank": 41,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "000900",
+      "name": "现代投资",
+      "exchange": "SZ",
+      "ratio": 3.1066,
+      "amount_yi": 0.472,
+      "sw": "交通运输/铁路公路/高速公路",
+      "_rank": 42,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "000883",
+      "name": "湖北能源",
+      "exchange": "SZ",
+      "ratio": 0.6529,
+      "amount_yi": 0.462,
+      "sw": "公用事业/电力/电能综合服务",
+      "_rank": 43,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600064",
+      "name": "南京高科",
+      "exchange": "SH",
+      "ratio": 2.6689,
+      "amount_yi": 0.462,
+      "sw": "房地产/房地产开发/住宅开发",
+      "_rank": 44,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "000690",
+      "name": "宝新能源",
+      "exchange": "SZ",
+      "ratio": 2.0376,
+      "amount_yi": 0.443,
+      "sw": "公用事业/电力/火力发电",
+      "_rank": 45,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "000063",
+      "name": "中兴通讯",
+      "exchange": "SZ",
+      "ratio": 0.8816,
+      "amount_yi": 0.422,
+      "sw": "通信/通信设备/通信网络设备及器件",
+      "_rank": 46,
+      "_status": "active"
+    },
+    {
+      "stock_code": "600895",
+      "name": "张江高科",
+      "exchange": "SH",
+      "ratio": 2.5906,
+      "amount_yi": 0.401,
+      "sw": "房地产/房地产开发/产业地产",
+      "_rank": 47,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "000686",
+      "name": "东北证券",
+      "exchange": "SZ",
+      "ratio": 1.7135,
+      "amount_yi": 0.401,
+      "sw": "非银金融/证券Ⅱ/证券Ⅲ",
+      "_rank": 48,
+      "_status": "active"
+    },
+    {
+      "stock_code": "002410",
+      "name": "广联达",
+      "exchange": "SZ",
+      "ratio": 2.4213,
+      "amount_yi": 0.4,
+      "sw": "计算机/软件开发/垂直应用软件",
+      "_rank": 49,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600376",
+      "name": "首开股份",
+      "exchange": "SH",
+      "ratio": 1.489,
+      "amount_yi": 0.384,
+      "sw": "房地产/房地产开发/住宅开发",
+      "_rank": 50,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600717",
+      "name": "天津港",
+      "exchange": "SH",
+      "ratio": 1.2209,
+      "amount_yi": 0.353,
+      "sw": "交通运输/航运港口/港口",
+      "_rank": 51,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "000030",
+      "name": "富奥股份",
+      "exchange": "SZ",
+      "ratio": 1.9921,
+      "amount_yi": 0.343,
+      "sw": "汽车/汽车零部件/底盘与发动机系统",
+      "_rank": 52,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "603885",
+      "name": "吉祥航空",
+      "exchange": "SH",
+      "ratio": 1.5531,
+      "amount_yi": 0.339,
+      "sw": "交通运输/航空机场/航空运输",
+      "_rank": 53,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600021",
+      "name": "上海电力",
+      "exchange": "SH",
+      "ratio": 1.2007,
+      "amount_yi": 0.339,
+      "sw": "公用事业/电力/火力发电",
+      "_rank": 54,
+      "_status": "active"
+    },
+    {
+      "stock_code": "600637",
+      "name": "东方明珠",
+      "exchange": "SH",
+      "ratio": 1.0039,
+      "amount_yi": 0.337,
+      "sw": "传媒/电视广播Ⅱ/电视广播Ⅲ",
+      "_rank": 55,
+      "_status": "active"
+    },
+    {
+      "stock_code": "000541",
+      "name": "佛山照明",
+      "exchange": "SZ",
+      "ratio": 2.1593,
+      "amount_yi": 0.332,
+      "sw": "家用电器/照明设备Ⅱ/照明设备Ⅲ",
+      "_rank": 56,
+      "_status": "active"
+    },
+    {
+      "stock_code": "601666",
+      "name": "平煤股份",
+      "exchange": "SH",
+      "ratio": 1.2862,
+      "amount_yi": 0.318,
+      "sw": "煤炭/煤炭开采/焦煤",
+      "_rank": 57,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002277",
+      "name": "友阿股份",
+      "exchange": "SZ",
+      "ratio": 2.2129,
+      "amount_yi": 0.309,
+      "sw": "商贸零售/一般零售/百货",
+      "_rank": 58,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600056",
+      "name": "中国医药",
+      "exchange": "SH",
+      "ratio": 2.0399,
+      "amount_yi": 0.305,
+      "sw": "医药生物/医药商业/医药流通",
+      "_rank": 59,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "300142",
+      "name": "沃森生物",
+      "exchange": "SZ",
+      "ratio": 1.8951,
+      "amount_yi": 0.303,
+      "sw": "医药生物/生物制品/疫苗",
+      "_rank": 60,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600261",
+      "name": "阳光照明",
+      "exchange": "SH",
+      "ratio": 2.2647,
+      "amount_yi": 0.302,
+      "sw": "家用电器/照明设备Ⅱ/照明设备Ⅲ",
+      "_rank": 61,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600120",
+      "name": "浙江东方",
+      "exchange": "SH",
+      "ratio": 0.8821,
+      "amount_yi": 0.301,
+      "sw": "非银金融/多元金融/金融控股",
+      "_rank": 62,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002643",
+      "name": "万润股份",
+      "exchange": "SZ",
+      "ratio": 3.2619,
+      "amount_yi": 0.301,
+      "sw": "电子/电子化学品Ⅱ/电子化学品Ⅲ",
+      "_rank": 63,
+      "_status": "active"
+    },
+    {
+      "stock_code": "600037",
+      "name": "歌华有线",
+      "exchange": "SH",
+      "ratio": 2.146,
+      "amount_yi": 0.299,
+      "sw": "传媒/电视广播Ⅱ/电视广播Ⅲ",
+      "_rank": 64,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600657",
+      "name": "信达地产",
+      "exchange": "SH",
+      "ratio": 1.0461,
+      "amount_yi": 0.298,
+      "sw": "房地产/房地产开发/住宅开发",
+      "_rank": 65,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002244",
+      "name": "滨江集团",
+      "exchange": "SZ",
+      "ratio": 0.9144,
+      "amount_yi": 0.285,
+      "sw": "房地产/房地产开发/住宅开发",
+      "_rank": 66,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "000685",
+      "name": "中山公用",
+      "exchange": "SZ",
+      "ratio": 1.8252,
+      "amount_yi": 0.269,
+      "sw": "环保/环境治理/水务及水治理",
+      "_rank": 67,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "601158",
+      "name": "重庆水务",
+      "exchange": "SH",
+      "ratio": 0.5498,
+      "amount_yi": 0.264,
+      "sw": "环保/环境治理/水务及水治理",
+      "_rank": 68,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600578",
+      "name": "京能电力",
+      "exchange": "SH",
+      "ratio": 0.3893,
+      "amount_yi": 0.261,
+      "sw": "公用事业/电力/火力发电",
+      "_rank": 69,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600383",
+      "name": "金地集团",
+      "exchange": "SH",
+      "ratio": 0.5582,
+      "amount_yi": 0.252,
+      "sw": "房地产/房地产开发/住宅开发",
+      "_rank": 70,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "601801",
+      "name": "皖新传媒",
+      "exchange": "SH",
+      "ratio": 1.2204,
+      "amount_yi": 0.239,
+      "sw": "传媒/出版/大众出版",
+      "_rank": 71,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "603477",
+      "name": "巨星农牧",
+      "exchange": "SH",
+      "ratio": 4.4908,
+      "amount_yi": 0.229,
+      "sw": "农林牧渔/养殖业/生猪养殖",
+      "_rank": 72,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600851",
+      "name": "海欣股份",
+      "exchange": "SH",
+      "ratio": 1.8721,
+      "amount_yi": 0.226,
+      "sw": "医药生物/化学制药/化学制剂",
+      "_rank": 73,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "601010",
+      "name": "文峰股份",
+      "exchange": "SH",
+      "ratio": 1.1878,
+      "amount_yi": 0.22,
+      "sw": "商贸零售/一般零售/多业态零售",
+      "_rank": 74,
+      "_status": "new"
+    },
+    {
+      "stock_code": "688389",
+      "name": "普门科技",
+      "exchange": "SH",
+      "ratio": 4.9083,
+      "amount_yi": 0.21,
+      "sw": "医药生物/医疗器械/体外诊断",
+      "_rank": 75,
+      "_status": "new"
+    },
+    {
+      "stock_code": "600483",
+      "name": "福能股份",
+      "exchange": "SH",
+      "ratio": 0.7458,
+      "amount_yi": 0.207,
+      "sw": "公用事业/电力/电能综合服务",
+      "_rank": 76,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600787",
+      "name": "中储股份",
+      "exchange": "SH",
+      "ratio": 0.9509,
+      "amount_yi": 0.206,
+      "sw": "交通运输/物流/仓储物流",
+      "_rank": 77,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "601928",
+      "name": "凤凰传媒",
+      "exchange": "SH",
+      "ratio": 0.7898,
+      "amount_yi": 0.201,
+      "sw": "传媒/出版/教育出版",
+      "_rank": 78,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "300285",
+      "name": "国瓷材料",
+      "exchange": "SZ",
+      "ratio": 1.9952,
+      "amount_yi": 0.199,
+      "sw": "电子/电子化学品Ⅱ/电子化学品Ⅲ",
+      "_rank": 79,
+      "_status": "active"
+    },
+    {
+      "stock_code": "600284",
+      "name": "浦东建设",
+      "exchange": "SH",
+      "ratio": 2.044,
+      "amount_yi": 0.198,
+      "sw": "建筑装饰/基础建设/基建市政工程",
+      "_rank": 80,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600663",
+      "name": "陆家嘴",
+      "exchange": "SH",
+      "ratio": 0.3919,
+      "amount_yi": 0.197,
+      "sw": "房地产/房地产开发/商业地产",
+      "_rank": 81,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "000922",
+      "name": "佳电股份",
+      "exchange": "SZ",
+      "ratio": 2.7883,
+      "amount_yi": 0.194,
+      "sw": "电力设备/电机Ⅱ/电机Ⅲ",
+      "_rank": 82,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "300122",
+      "name": "智飞生物",
+      "exchange": "SZ",
+      "ratio": 0.7946,
+      "amount_yi": 0.19,
+      "sw": "医药生物/生物制品/疫苗",
+      "_rank": 83,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600597",
+      "name": "光明乳业",
+      "exchange": "SH",
+      "ratio": 1.3384,
+      "amount_yi": 0.184,
+      "sw": "食品饮料/饮料乳品/乳品",
+      "_rank": 84,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600557",
+      "name": "康缘药业",
+      "exchange": "SH",
+      "ratio": 3.1593,
+      "amount_yi": 0.179,
+      "sw": "医药生物/中药Ⅱ/中药Ⅲ",
+      "_rank": 85,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600826",
+      "name": "兰生股份",
+      "exchange": "SH",
+      "ratio": 2.42,
+      "amount_yi": 0.178,
+      "sw": "社会服务/专业服务/会展服务",
+      "_rank": 86,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600623",
+      "name": "华谊集团",
+      "exchange": "SH",
+      "ratio": 0.8342,
+      "amount_yi": 0.177,
+      "sw": "基础化工/化学原料/煤化工",
+      "_rank": 87,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600633",
+      "name": "浙数文化",
+      "exchange": "SH",
+      "ratio": 1.3841,
+      "amount_yi": 0.176,
+      "sw": "传媒/游戏Ⅱ/游戏Ⅲ",
+      "_rank": 88,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "000823",
+      "name": "超声电子",
+      "exchange": "SZ",
+      "ratio": 3.1529,
+      "amount_yi": 0.169,
+      "sw": "电子/元件/印制电路板",
+      "_rank": 89,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "300257",
+      "name": "开山股份",
+      "exchange": "SZ",
+      "ratio": 1.6264,
+      "amount_yi": 0.162,
+      "sw": "机械设备/通用设备/其他通用设备",
+      "_rank": 90,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "000006",
+      "name": "深振业Ａ",
+      "exchange": "SZ",
+      "ratio": 1.1891,
+      "amount_yi": 0.161,
+      "sw": "房地产/房地产开发/住宅开发",
+      "_rank": 91,
+      "_status": "new"
+    },
+    {
+      "stock_code": "300832",
+      "name": "新产业",
+      "exchange": "SZ",
+      "ratio": 2.0364,
+      "amount_yi": 0.16,
+      "sw": "医药生物/医疗器械/体外诊断",
+      "_rank": 92,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002267",
+      "name": "陕天然气",
+      "exchange": "SZ",
+      "ratio": 1.4167,
+      "amount_yi": 0.158,
+      "sw": "公用事业/燃气Ⅱ/燃气Ⅲ",
+      "_rank": 93,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600736",
+      "name": "苏州高新",
+      "exchange": "SH",
+      "ratio": 1.3047,
+      "amount_yi": 0.15,
+      "sw": "房地产/房地产开发/住宅开发",
+      "_rank": 94,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002225",
+      "name": "濮耐股份",
+      "exchange": "SZ",
+      "ratio": 1.2914,
+      "amount_yi": 0.15,
+      "sw": "建筑材料/装修建材/耐火材料",
+      "_rank": 95,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "300470",
+      "name": "中密控股",
+      "exchange": "SZ",
+      "ratio": 6.7321,
+      "amount_yi": 0.14,
+      "sw": "机械设备/通用设备/其他通用设备",
+      "_rank": 96,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002152",
+      "name": "广电运通",
+      "exchange": "SZ",
+      "ratio": 0.5629,
+      "amount_yi": 0.14,
+      "sw": "计算机/计算机设备/其他计算机设备",
+      "_rank": 97,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600874",
+      "name": "创业环保",
+      "exchange": "SH",
+      "ratio": 0.8831,
+      "amount_yi": 0.139,
+      "sw": "环保/环境治理/水务及水治理",
+      "_rank": 98,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "301029",
+      "name": "怡合达",
+      "exchange": "SZ",
+      "ratio": 2.1721,
+      "amount_yi": 0.138,
+      "sw": "机械设备/自动化设备/其他自动化设备",
+      "_rank": 99,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "601921",
+      "name": "浙版传媒",
+      "exchange": "SH",
+      "ratio": 0.603,
+      "amount_yi": 0.134,
+      "sw": "传媒/出版/教育出版",
+      "_rank": 100,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "603379",
+      "name": "三美股份",
+      "exchange": "SH",
+      "ratio": 2.1686,
+      "amount_yi": 0.132,
+      "sw": "基础化工/化学制品/氟化工",
+      "_rank": 101,
+      "_status": "active"
+    },
+    {
+      "stock_code": "601966",
+      "name": "玲珑轮胎",
+      "exchange": "SH",
+      "ratio": 0.8958,
+      "amount_yi": 0.131,
+      "sw": "汽车/汽车零部件/轮胎轮毂",
+      "_rank": 102,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002030",
+      "name": "达安基因",
+      "exchange": "SZ",
+      "ratio": 0.9133,
+      "amount_yi": 0.128,
+      "sw": "医药生物/医疗器械/体外诊断",
+      "_rank": 103,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "603153",
+      "name": "上海建科",
+      "exchange": "SH",
+      "ratio": 3.123,
+      "amount_yi": 0.128,
+      "sw": "建筑装饰/工程咨询服务Ⅱ/工程咨询服务Ⅲ",
+      "_rank": 104,
+      "_status": "active"
+    },
+    {
+      "stock_code": "600628",
+      "name": "新世界",
+      "exchange": "SH",
+      "ratio": 1.9683,
+      "amount_yi": 0.127,
+      "sw": "商贸零售/一般零售/百货",
+      "_rank": 105,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002029",
+      "name": "七匹狼",
+      "exchange": "SZ",
+      "ratio": 1.8058,
+      "amount_yi": 0.127,
+      "sw": "纺织服饰/服装家纺/非运动服装",
+      "_rank": 106,
+      "_status": "active"
+    },
+    {
+      "stock_code": "000417",
+      "name": "合百集团",
+      "exchange": "SZ",
+      "ratio": 1.5806,
+      "amount_yi": 0.123,
+      "sw": "商贸零售/一般零售/多业态零售",
+      "_rank": 107,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002250",
+      "name": "联化科技",
+      "exchange": "SZ",
+      "ratio": 1.3374,
+      "amount_yi": 0.12,
+      "sw": "基础化工/农化制品/农药",
+      "_rank": 108,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "300577",
+      "name": "开润股份",
+      "exchange": "SZ",
+      "ratio": 4.9996,
+      "amount_yi": 0.12,
+      "sw": "纺织服饰/服装家纺/鞋帽及其他",
+      "_rank": 109,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "000090",
+      "name": "天健集团",
+      "exchange": "SZ",
+      "ratio": 0.6373,
+      "amount_yi": 0.119,
+      "sw": "房地产/房地产开发/住宅开发",
+      "_rank": 110,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "000028",
+      "name": "国药一致",
+      "exchange": "SZ",
+      "ratio": 2.0952,
+      "amount_yi": 0.117,
+      "sw": "医药生物/医药商业/医药流通",
+      "_rank": 111,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002154",
+      "name": "报喜鸟",
+      "exchange": "SZ",
+      "ratio": 0.794,
+      "amount_yi": 0.116,
+      "sw": "纺织服饰/服装家纺/非运动服装",
+      "_rank": 112,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002242",
+      "name": "九阳股份",
+      "exchange": "SZ",
+      "ratio": 1.468,
+      "amount_yi": 0.112,
+      "sw": "家用电器/小家电/厨房小家电",
+      "_rank": 113,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "688658",
+      "name": "悦康药业",
+      "exchange": "SH",
+      "ratio": 2.4779,
+      "amount_yi": 0.112,
+      "sw": "医药生物/化学制药/化学制剂",
+      "_rank": 114,
+      "_status": "new"
+    },
+    {
+      "stock_code": "600971",
+      "name": "恒源煤电",
+      "exchange": "SH",
+      "ratio": 0.9189,
+      "amount_yi": 0.11,
+      "sw": "煤炭/煤炭开采/动力煤",
+      "_rank": 115,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "603517",
+      "name": "ST绝味",
+      "exchange": "SH",
+      "ratio": 1.8152,
+      "amount_yi": 0.11,
+      "sw": "食品饮料/休闲食品/熟食",
+      "_rank": 116,
+      "_status": "new"
+    },
+    {
+      "stock_code": "600558",
+      "name": "大西洋",
+      "exchange": "SH",
+      "ratio": 1.2249,
+      "amount_yi": 0.11,
+      "sw": "机械设备/通用设备/金属制品",
+      "_rank": 117,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "603277",
+      "name": "银都股份",
+      "exchange": "SH",
+      "ratio": 1.7538,
+      "amount_yi": 0.108,
+      "sw": "机械设备/通用设备/制冷空调设备",
+      "_rank": 118,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600694",
+      "name": "大商股份",
+      "exchange": "SH",
+      "ratio": 3.0001,
+      "amount_yi": 0.103,
+      "sw": "商贸零售/一般零售/多业态零售",
+      "_rank": 119,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002884",
+      "name": "凌霄泵业",
+      "exchange": "SZ",
+      "ratio": 2.7679,
+      "amount_yi": 0.099,
+      "sw": "机械设备/通用设备/其他通用设备",
+      "_rank": 120,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "000733",
+      "name": "振华科技",
+      "exchange": "SZ",
+      "ratio": 1.7791,
+      "amount_yi": 0.099,
+      "sw": "国防军工/军工电子Ⅱ/军工电子Ⅲ",
+      "_rank": 121,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600862",
+      "name": "中航高科",
+      "exchange": "SH",
+      "ratio": 0.6878,
+      "amount_yi": 0.096,
+      "sw": "国防军工/航空装备Ⅱ/航空装备Ⅲ",
+      "_rank": 122,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002386",
+      "name": "天原股份",
+      "exchange": "SZ",
+      "ratio": 0.7231,
+      "amount_yi": 0.094,
+      "sw": "基础化工/化学原料/氯碱",
+      "_rank": 123,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "603317",
+      "name": "天味食品",
+      "exchange": "SH",
+      "ratio": 0.8726,
+      "amount_yi": 0.093,
+      "sw": "食品饮料/调味发酵品Ⅱ/调味发酵品Ⅲ",
+      "_rank": 124,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "300055",
+      "name": "万邦达",
+      "exchange": "SZ",
+      "ratio": 1.0903,
+      "amount_yi": 0.091,
+      "sw": "石油石化/炼化及贸易/其他石化",
+      "_rank": 125,
+      "_status": "active"
+    },
+    {
+      "stock_code": "600780",
+      "name": "通宝能源",
+      "exchange": "SH",
+      "ratio": 0.7707,
+      "amount_yi": 0.088,
+      "sw": "公用事业/电力/火力发电",
+      "_rank": 126,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "000988",
+      "name": "华工科技",
+      "exchange": "SZ",
+      "ratio": 0.8777,
+      "amount_yi": 0.088,
+      "sw": "机械设备/自动化设备/激光设备",
+      "_rank": 127,
+      "_status": "active"
+    },
+    {
+      "stock_code": "000655",
+      "name": "金岭矿业",
+      "exchange": "SZ",
+      "ratio": 1.4799,
+      "amount_yi": 0.088,
+      "sw": "钢铁/冶钢原料/铁矿石",
+      "_rank": 128,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "603328",
+      "name": "依顿电子",
+      "exchange": "SH",
+      "ratio": 0.8616,
+      "amount_yi": 0.086,
+      "sw": "电子/元件/印制电路板",
+      "_rank": 129,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "603345",
+      "name": "安井食品",
+      "exchange": "SH",
+      "ratio": 2.4266,
+      "amount_yi": 0.081,
+      "sw": "食品饮料/食品加工/预加工食品",
+      "_rank": 130,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002567",
+      "name": "唐人神",
+      "exchange": "SZ",
+      "ratio": 0.5467,
+      "amount_yi": 0.078,
+      "sw": "农林牧渔/饲料/畜禽饲料",
+      "_rank": 131,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600298",
+      "name": "安琪酵母",
+      "exchange": "SH",
+      "ratio": 0.8872,
+      "amount_yi": 0.077,
+      "sw": "食品饮料/调味发酵品Ⅱ/调味发酵品Ⅲ",
+      "_rank": 132,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "601798",
+      "name": "蓝科高新",
+      "exchange": "SH",
+      "ratio": 2.1546,
+      "amount_yi": 0.076,
+      "sw": "机械设备/专用设备/能源及重型设备",
+      "_rank": 133,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002365",
+      "name": "永安药业",
+      "exchange": "SZ",
+      "ratio": 2.5826,
+      "amount_yi": 0.076,
+      "sw": "医药生物/化学制药/原料药",
+      "_rank": 134,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600993",
+      "name": "马应龙",
+      "exchange": "SH",
+      "ratio": 1.7227,
+      "amount_yi": 0.074,
+      "sw": "医药生物/中药Ⅱ/中药Ⅲ",
+      "_rank": 135,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "603000",
+      "name": "人民网",
+      "exchange": "SH",
+      "ratio": 0.6399,
+      "amount_yi": 0.071,
+      "sw": "传媒/数字媒体/门户网站",
+      "_rank": 136,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600559",
+      "name": "老白干酒",
+      "exchange": "SH",
+      "ratio": 0.7663,
+      "amount_yi": 0.07,
+      "sw": "食品饮料/白酒Ⅱ/白酒Ⅲ",
+      "_rank": 137,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "603983",
+      "name": "丸美生物",
+      "exchange": "SH",
+      "ratio": 1.6888,
+      "amount_yi": 0.068,
+      "sw": "美容护理/化妆品/品牌化妆品",
+      "_rank": 138,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "000661",
+      "name": "长春高新",
+      "exchange": "SZ",
+      "ratio": 1.5755,
+      "amount_yi": 0.064,
+      "sw": "医药生物/生物制品/其他生物制品",
+      "_rank": 139,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "000869",
+      "name": "张裕Ａ",
+      "exchange": "SZ",
+      "ratio": 0.9776,
+      "amount_yi": 0.064,
+      "sw": "食品饮料/非白酒/其他酒类",
+      "_rank": 140,
+      "_status": "new"
+    },
+    {
+      "stock_code": "688484",
+      "name": "南芯科技",
+      "exchange": "SH",
+      "ratio": 1.4481,
+      "amount_yi": 0.062,
+      "sw": "电子/半导体/模拟芯片设计",
+      "_rank": 141,
+      "_status": "new"
+    },
+    {
+      "stock_code": "002066",
+      "name": "瑞泰科技",
+      "exchange": "SZ",
+      "ratio": 2.6164,
+      "amount_yi": 0.061,
+      "sw": "建筑材料/装修建材/耐火材料",
+      "_rank": 142,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002301",
+      "name": "齐心集团",
+      "exchange": "SZ",
+      "ratio": 0.8318,
+      "amount_yi": 0.06,
+      "sw": "轻工制造/文娱用品/文化用品",
+      "_rank": 143,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "605555",
+      "name": "德昌股份",
+      "exchange": "SH",
+      "ratio": 1.2326,
+      "amount_yi": 0.06,
+      "sw": "家用电器/小家电/清洁小家电",
+      "_rank": 144,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "603279",
+      "name": "景津装备",
+      "exchange": "SH",
+      "ratio": 0.9963,
+      "amount_yi": 0.057,
+      "sw": "机械设备/通用设备/其他通用设备",
+      "_rank": 145,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002724",
+      "name": "海洋王",
+      "exchange": "SZ",
+      "ratio": 0.7328,
+      "amount_yi": 0.057,
+      "sw": "家用电器/照明设备Ⅱ/照明设备Ⅲ",
+      "_rank": 146,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002053",
+      "name": "云南能投",
+      "exchange": "SZ",
+      "ratio": 0.5729,
+      "amount_yi": 0.053,
+      "sw": "公用事业/电力/风力发电",
+      "_rank": 147,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002332",
+      "name": "仙琚制药",
+      "exchange": "SZ",
+      "ratio": 0.5154,
+      "amount_yi": 0.051,
+      "sw": "医药生物/化学制药/原料药",
+      "_rank": 148,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "300239",
+      "name": "东宝生物",
+      "exchange": "SZ",
+      "ratio": 0.8423,
+      "amount_yi": 0.05,
+      "sw": "医药生物/生物制品/其他生物制品",
+      "_rank": 149,
+      "_status": "active"
+    },
+    {
+      "stock_code": "000935",
+      "name": "四川双马",
+      "exchange": "SZ",
+      "ratio": 0.6467,
+      "amount_yi": 0.049,
+      "sw": "非银金融/多元金融/资产管理",
+      "_rank": 150,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "688006",
+      "name": "杭可科技",
+      "exchange": "SH",
+      "ratio": 0.7802,
+      "amount_yi": 0.047,
+      "sw": "电力设备/电池/锂电专用设备",
+      "_rank": 151,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600729",
+      "name": "重庆百货",
+      "exchange": "SH",
+      "ratio": 0.9921,
+      "amount_yi": 0.044,
+      "sw": "商贸零售/一般零售/多业态零售",
+      "_rank": 152,
+      "_status": "new"
+    },
+    {
+      "stock_code": "002462",
+      "name": "嘉事堂",
+      "exchange": "SZ",
+      "ratio": 1.495,
+      "amount_yi": 0.044,
+      "sw": "医药生物/医药商业/医药流通",
+      "_rank": 153,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600510",
+      "name": "黑牡丹",
+      "exchange": "SH",
+      "ratio": 0.416,
+      "amount_yi": 0.043,
+      "sw": "房地产/房地产开发/住宅开发",
+      "_rank": 154,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "603351",
+      "name": "威尔药业",
+      "exchange": "SH",
+      "ratio": 3.0675,
+      "amount_yi": 0.042,
+      "sw": "医药生物/化学制药/原料药",
+      "_rank": 155,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "300363",
+      "name": "博腾股份",
+      "exchange": "SZ",
+      "ratio": 0.7497,
+      "amount_yi": 0.041,
+      "sw": "医药生物/医疗服务/医疗研发外包",
+      "_rank": 156,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002378",
+      "name": "章源钨业",
+      "exchange": "SZ",
+      "ratio": 0.3389,
+      "amount_yi": 0.041,
+      "sw": "有色金属/小金属/钨",
+      "_rank": 157,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "300196",
+      "name": "长海股份",
+      "exchange": "SZ",
+      "ratio": 0.9881,
+      "amount_yi": 0.04,
+      "sw": "建筑材料/玻璃玻纤/玻纤制造",
+      "_rank": 158,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "300119",
+      "name": "瑞普生物",
+      "exchange": "SZ",
+      "ratio": 0.8607,
+      "amount_yi": 0.04,
+      "sw": "农林牧渔/动物保健Ⅱ/动物保健Ⅲ",
+      "_rank": 159,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "603238",
+      "name": "诺邦股份",
+      "exchange": "SH",
+      "ratio": 2.1974,
+      "amount_yi": 0.039,
+      "sw": "纺织服饰/纺织制造/其他纺织",
+      "_rank": 160,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "300636",
+      "name": "同和药业",
+      "exchange": "SZ",
+      "ratio": 0.9147,
+      "amount_yi": 0.038,
+      "sw": "医药生物/化学制药/原料药",
+      "_rank": 161,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002054",
+      "name": "德美化工",
+      "exchange": "SZ",
+      "ratio": 0.7867,
+      "amount_yi": 0.038,
+      "sw": "基础化工/化学制品/纺织化学制品",
+      "_rank": 162,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002401",
+      "name": "中远海科",
+      "exchange": "SZ",
+      "ratio": 0.9934,
+      "amount_yi": 0.037,
+      "sw": "计算机/IT服务Ⅱ/IT服务Ⅲ",
+      "_rank": 163,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002791",
+      "name": "坚朗五金",
+      "exchange": "SZ",
+      "ratio": 1.0109,
+      "amount_yi": 0.036,
+      "sw": "建筑材料/装修建材/其他建材",
+      "_rank": 164,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "001205",
+      "name": "盛航股份",
+      "exchange": "SZ",
+      "ratio": 1.8272,
+      "amount_yi": 0.034,
+      "sw": "交通运输/航运港口/航运",
+      "_rank": 165,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "603167",
+      "name": "渤海轮渡",
+      "exchange": "SH",
+      "ratio": 0.6731,
+      "amount_yi": 0.032,
+      "sw": "交通运输/航运港口/航运",
+      "_rank": 166,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "605338",
+      "name": "巴比食品",
+      "exchange": "SH",
+      "ratio": 1.2523,
+      "amount_yi": 0.03,
+      "sw": "食品饮料/食品加工/预加工食品",
+      "_rank": 167,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "002338",
+      "name": "奥普光电",
+      "exchange": "SZ",
+      "ratio": 1.2463,
+      "amount_yi": 0.03,
+      "sw": "国防军工/军工电子Ⅱ/军工电子Ⅲ",
+      "_rank": 168,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "000526",
+      "name": "学大教育",
+      "exchange": "SZ",
+      "ratio": 2.2816,
+      "amount_yi": 0.028,
+      "sw": "社会服务/教育/培训教育",
+      "_rank": 169,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "600605",
+      "name": "汇通能源",
+      "exchange": "SH",
+      "ratio": 1.3385,
+      "amount_yi": 0.028,
+      "sw": "商贸零售/一般零售/商业物业经营",
+      "_rank": 170,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "300396",
+      "name": "迪瑞医疗",
+      "exchange": "SZ",
+      "ratio": 1.002,
+      "amount_yi": 0.027,
+      "sw": "医药生物/医疗器械/体外诊断",
+      "_rank": 171,
+      "_status": "new"
+    },
+    {
+      "stock_code": "688246",
+      "name": "嘉和美康",
+      "exchange": "SH",
+      "ratio": 1.914,
+      "amount_yi": 0.026,
+      "sw": "计算机/软件开发/垂直应用软件",
+      "_rank": 172,
+      "_status": "new"
+    },
+    {
+      "stock_code": "605369",
+      "name": "拱东医疗",
+      "exchange": "SH",
+      "ratio": 1.0608,
+      "amount_yi": 0.023,
+      "sw": "医药生物/医疗器械/医疗耗材",
+      "_rank": 173,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "301220",
+      "name": "亚香股份",
+      "exchange": "SZ",
+      "ratio": 2.0536,
+      "amount_yi": 0.023,
+      "sw": "基础化工/化学制品/食品及饲料添加剂",
+      "_rank": 174,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "688603",
+      "name": "天承科技",
+      "exchange": "SH",
+      "ratio": 1.853,
+      "amount_yi": 0.023,
+      "sw": "电子/电子化学品Ⅱ/电子化学品Ⅲ",
+      "_rank": 175,
+      "_status": "active"
+    },
+    {
+      "stock_code": "688786",
+      "name": "悦安新材",
+      "exchange": "SH",
+      "ratio": 1.2003,
+      "amount_yi": 0.017,
+      "sw": "有色金属/金属新材料/磁性材料",
+      "_rank": 176,
+      "_status": "new"
+    },
+    {
+      "stock_code": "603929",
+      "name": "亚翔集成",
+      "exchange": "SH",
+      "ratio": 0.8039,
+      "amount_yi": 0.017,
+      "sw": "建筑装饰/专业工程/其他专业工程",
+      "_rank": 177,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "300321",
+      "name": "同大股份",
+      "exchange": "SZ",
+      "ratio": 1.7918,
+      "amount_yi": 0.016,
+      "sw": "基础化工/化学制品/聚氨酯",
+      "_rank": 178,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "300733",
+      "name": "西菱动力",
+      "exchange": "SZ",
+      "ratio": 0.5125,
+      "amount_yi": 0.016,
+      "sw": "汽车/汽车零部件/底盘与发动机系统",
+      "_rank": 179,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "688068",
+      "name": "热景生物",
+      "exchange": "SH",
+      "ratio": 1.618,
+      "amount_yi": 0.015,
+      "sw": "医药生物/医疗器械/体外诊断",
+      "_rank": 180,
+      "_status": "new"
+    },
+    {
+      "stock_code": "301257",
+      "name": "普蕊斯",
+      "exchange": "SZ",
+      "ratio": 1.7989,
+      "amount_yi": 0.014,
+      "sw": "医药生物/医疗服务/医疗研发外包",
+      "_rank": 181,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "688112",
+      "name": "鼎阳科技",
+      "exchange": "SH",
+      "ratio": 0.666,
+      "amount_yi": 0.011,
+      "sw": "机械设备/通用设备/仪器仪表",
+      "_rank": 182,
+      "_status": "new"
+    },
+    {
+      "stock_code": "688181",
+      "name": "八亿时空",
+      "exchange": "SH",
+      "ratio": 0.594,
+      "amount_yi": 0.008,
+      "sw": "电子/光学光电子/面板",
+      "_rank": 183,
+      "_status": "draft"
+    },
+    {
+      "stock_code": "603059",
+      "name": "倍加洁",
+      "exchange": "SH",
+      "ratio": 0.42,
+      "amount_yi": 0.004,
+      "sw": "美容护理/个护用品/洗护用品",
+      "_rank": 184,
+      "_status": "draft"
+    }
+  ]
+}

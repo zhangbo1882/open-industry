@@ -3515,3 +3515,6 @@ Cherry-picked from single-company PRs into batch PR.
 
 ### Batch 21: 4 companies — 2026-07-24
 中国卫通/中国国贸/中国外运/中国天楹 — all reviewed APPROVED.
+
+### Batch 22: 5 companies — 2026-07-25
+中国汽研/中国海油/中国海诚/中国广核/中国武夷 — all GATE PASSED.

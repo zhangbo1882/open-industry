@@ -3567,3 +3567,5 @@ Cherry-picked from single-company PRs into batch PR.
 
 ### Batch 23: 3 companies — 2026-07-29
 中国海防/中国瑞林/中国电影 — all GATE PASSED.
+
+2026-08-04 · ingest · 中国重汽 (SZ000951) · sector=[汽车/整车/重卡] · 5/5 financials

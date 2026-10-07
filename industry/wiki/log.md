@@ -3572,3 +3572,4 @@ Cherry-picked from single-company PRs into batch PR.
 
 ### Batch 25: 3 companies — 2026-08-15
 中国铝业/中国黄金/中天服务 — all GATE PASSED.
+2026-10-07 · ingest · 中国卫星 (SH600118) · sector=[国防军工/军工电子/军用电子] · 5/5 financials
